@@ -11,6 +11,7 @@ namespace Dicktest
         static void Main(string[] args)
         {
             Console.WriteLine("Hola Mundo");
+            Console.WriteLine("Gnat0 Rara");
         }
     }
 }
